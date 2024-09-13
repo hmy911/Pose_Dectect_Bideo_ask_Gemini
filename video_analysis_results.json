@@ -1,0 +1,154 @@
+[
+    {
+        "frame_number": 0,
+        "action": "Squat \n"
+    },
+    {
+        "frame_number": 25,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 50,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 75,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 100,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 125,
+        "action": "Dance \n"
+    },
+    {
+        "frame_number": 150,
+        "action": "Punch \n"
+    },
+    {
+        "frame_number": 175,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 200,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 225,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 250,
+        "action": "Pullup \n"
+    },
+    {
+        "frame_number": 275,
+        "action": "Rest\n"
+    },
+    {
+        "frame_number": 300,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 325,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 350,
+        "action": "Run \n"
+    },
+    {
+        "frame_number": 375,
+        "action": "Dance \n"
+    },
+    {
+        "frame_number": 400,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 425,
+        "action": "Run \n"
+    },
+    {
+        "frame_number": 450,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 475,
+        "action": "Run. \n"
+    },
+    {
+        "frame_number": 500,
+        "action": "Rest\n"
+    },
+    {
+        "frame_number": 525,
+        "action": "Walk\n"
+    },
+    {
+        "frame_number": 550,
+        "action": "Rest\n"
+    },
+    {
+        "frame_number": 575,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 600,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 625,
+        "action": "Run\n"
+    },
+    {
+        "frame_number": 650,
+        "action": "Jump\n"
+    },
+    {
+        "frame_number": 675,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 700,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 725,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 750,
+        "action": "Rest \n"
+    },
+    {
+        "frame_number": 775,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 800,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 825,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 850,
+        "action": "Pushup \n"
+    },
+    {
+        "frame_number": 875,
+        "action": "Walk \n"
+    },
+    {
+        "frame_number": 900,
+        "action": "Walk \n"
+    },
+    {
+        "frame_number": 925,
+        "action": "Dance\n"
+    }
+]
