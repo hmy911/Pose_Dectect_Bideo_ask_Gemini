@@ -6,7 +6,7 @@ import google.generativeai as genai
 from PIL import Image
 import cv2
 
-mygoogleapikey = 'AIzaSyDmbIadSL9Ot8CCH1ilPlOdBgO41-MXr-Q'   # 個人的api金鑰
+mygoogleapikey = ''   # 個人的api金鑰
 genai.configure(api_key= mygoogleapikey)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
